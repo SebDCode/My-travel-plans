@@ -1,0 +1,1 @@
+My travel plans example for Udacity Git Project
